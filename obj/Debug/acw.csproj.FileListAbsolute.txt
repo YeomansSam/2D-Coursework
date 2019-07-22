@@ -1,0 +1,6 @@
+C:\Users\soy02\Documents\08145\acw\acw\bin\acw.dll.config
+C:\Users\soy02\Documents\08145\acw\acw\bin\acw.dll
+C:\Users\soy02\Documents\08145\acw\acw\bin\acw.pdb
+C:\Users\soy02\Documents\08145\acw\acw\obj\Debug\acw.csprojResolveAssemblyReference.cache
+C:\Users\soy02\Documents\08145\acw\acw\obj\Debug\acw.dll
+C:\Users\soy02\Documents\08145\acw\acw\obj\Debug\acw.pdb
